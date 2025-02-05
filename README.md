@@ -15,7 +15,7 @@ Sample PHP web application using the Kangaroo Rewards API
 # How to Use
 
 ## Setup
-Clone the repository. Rename the app/config.php.example to config.php and update it with your credentials.
+Clone the repository. Rename the `app/config.php.example` to `config.php` and update it with your credentials.
 
 ## Starting the web server
 
