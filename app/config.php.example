@@ -1,0 +1,9 @@
+<?php
+// config.php
+define('CLIENT_ID', 'YOUR_CLIENT_ID');
+define('CLIENT_SECRET', 'YOUR_CLIENT_SECRET');
+define('APPLICATION_KEY', 'YOUR_APPLICATION_KEY');
+define('OAUTH_TOKEN_URL', 'https://api.kangaroorewards.com/oauth/token');
+define('API_BASE_URL', 'https://api.kangaroorewards.com');
+define('USERNAME', 'john@example.com');  // For password grant demo
+define('PASSWORD', 'your-super-password'); // For password grant demo
